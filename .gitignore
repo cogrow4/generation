@@ -1,0 +1,26 @@
+# System Files
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Environment variables
+.env
+.env.local
